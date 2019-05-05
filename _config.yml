@@ -79,6 +79,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: 
-  branch:
+  repo: https://github.com/GITDengMing/blog-hexo
+  branch: deployed
   message:
